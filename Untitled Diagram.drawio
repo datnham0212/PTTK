@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-14T17:21:44.661Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="dqDWljMn5y3y8cFJNjYd" version="21.1.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-14T17:23:44.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="I7MBu7zOITeFw9RiphVH" version="21.1.8" type="github">
   <diagram name="Page-1" id="-4r1BdAoWu1FFmYvjzX0">
-    <mxGraphModel dx="652" dy="329" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="765" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -712,6 +712,9 @@
             <mxPoint x="480" y="2572.5" as="sourcePoint" />
             <mxPoint x="480" y="2540" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="hLNXkJXOTsXYUl8Z6h9J-181" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Một kho dữ liệu không thể truyền dữ liệu trực tiếp cho 1 kho dữ liệu khác. Tương tự, 1 terminal cũng không thể trực tiếp truyền dữ liệu cho kho dữ liệu. Muốn truyền cần thông qua xử lý&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="2270" width="270" height="250" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
